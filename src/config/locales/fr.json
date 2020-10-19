@@ -1,1 +1,10 @@
-{}
+{
+	"invoice_header_title": "Facture",
+	"invoice_header_subject": "Facture",
+	"invoice_header_reference": "Réf. :",
+	"invoice_header_date": "Date de facturation :",
+	"fromto_phone": "Téléphone :",
+	"fromto_mail": "Email :",
+	"table_information": "table_information",
+	"footer": "Solution auto"
+}
